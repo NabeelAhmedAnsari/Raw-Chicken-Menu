@@ -1,0 +1,1 @@
+web: gunicorn chicken_order.wsgi
